@@ -43,7 +43,7 @@ class DetailActivity : AppCompatActivity() {
         tv_title.text = result.title
         tv_release.text = result.release
         tv_genre.text = result.genre
-        tv_desctiption.text = result.description
+        tv_description.text = result.description
 
     }
 }
